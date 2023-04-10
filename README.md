@@ -1,4 +1,4 @@
-## 서블릿습학습
+## 서블릿 학습
 + HttpServletRequest 기본 사용법
 + HTTP 요청 데이터
   + GET - 쿼리 파라미터
